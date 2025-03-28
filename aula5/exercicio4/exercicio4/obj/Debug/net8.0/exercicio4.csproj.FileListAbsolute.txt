@@ -1,0 +1,15 @@
+c:\Users\Alunos\Desktop\lpr\Tarefas_LPR\aula5\exercicio4\exercicio4\bin\Debug\net8.0\exercicio4.exe
+c:\Users\Alunos\Desktop\lpr\Tarefas_LPR\aula5\exercicio4\exercicio4\bin\Debug\net8.0\exercicio4.deps.json
+c:\Users\Alunos\Desktop\lpr\Tarefas_LPR\aula5\exercicio4\exercicio4\bin\Debug\net8.0\exercicio4.runtimeconfig.json
+c:\Users\Alunos\Desktop\lpr\Tarefas_LPR\aula5\exercicio4\exercicio4\bin\Debug\net8.0\exercicio4.dll
+c:\Users\Alunos\Desktop\lpr\Tarefas_LPR\aula5\exercicio4\exercicio4\bin\Debug\net8.0\exercicio4.pdb
+c:\Users\Alunos\Desktop\lpr\Tarefas_LPR\aula5\exercicio4\exercicio4\obj\Debug\net8.0\exercicio4.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Alunos\Desktop\lpr\Tarefas_LPR\aula5\exercicio4\exercicio4\obj\Debug\net8.0\exercicio4.AssemblyInfoInputs.cache
+c:\Users\Alunos\Desktop\lpr\Tarefas_LPR\aula5\exercicio4\exercicio4\obj\Debug\net8.0\exercicio4.AssemblyInfo.cs
+c:\Users\Alunos\Desktop\lpr\Tarefas_LPR\aula5\exercicio4\exercicio4\obj\Debug\net8.0\exercicio4.csproj.CoreCompileInputs.cache
+c:\Users\Alunos\Desktop\lpr\Tarefas_LPR\aula5\exercicio4\exercicio4\obj\Debug\net8.0\exercicio4.sourcelink.json
+c:\Users\Alunos\Desktop\lpr\Tarefas_LPR\aula5\exercicio4\exercicio4\obj\Debug\net8.0\exercicio4.dll
+c:\Users\Alunos\Desktop\lpr\Tarefas_LPR\aula5\exercicio4\exercicio4\obj\Debug\net8.0\refint\exercicio4.dll
+c:\Users\Alunos\Desktop\lpr\Tarefas_LPR\aula5\exercicio4\exercicio4\obj\Debug\net8.0\exercicio4.pdb
+c:\Users\Alunos\Desktop\lpr\Tarefas_LPR\aula5\exercicio4\exercicio4\obj\Debug\net8.0\exercicio4.genruntimeconfig.cache
+c:\Users\Alunos\Desktop\lpr\Tarefas_LPR\aula5\exercicio4\exercicio4\obj\Debug\net8.0\ref\exercicio4.dll
