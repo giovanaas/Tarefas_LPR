@@ -46,7 +46,7 @@ void somaMultiplos()
             soma += i;
         }
     }
-    cout << "A soma de todos os numeros impares multiplos de 3 que se encontram de 50 a 500 é: " << soma << endl;
+    cout << "A soma de todos os numeros impares multiplos de 3 que se encontram de 50 a 500 eh: " << soma << endl;
 }
 
 void somaQuadrado()
