@@ -37,7 +37,7 @@ int main()
             cin.clear();
             cin.ignore(numeric_limits<streamsize>::max(), '\n');
 
-            cout << "Por favor, digite um numero valido! O numero tem que ser INTEIRO!!" << endl;
+            cout << "Por favor, digite um numero valido! O numero deve ser INTEIRO!!" << endl;
             cout << " " << endl;
         }
     }
