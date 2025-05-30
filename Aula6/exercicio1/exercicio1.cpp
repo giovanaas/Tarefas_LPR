@@ -1,12 +1,17 @@
 #include <iostream>
-
 using namespace std;
+  
+int numero;
+int reverso;
 
-int main()
-{  
-    int numero;
+void reverso () {
+  
     cout << "Digite um numero inteiro: ";
     cin >> numero;
-    cout << "O numero eh: " << numero << ".";
-
 }
+
+int main()
+{ 
+    cout << "O reverso de " << numero << " eh: " << reverso;
+} 
+
