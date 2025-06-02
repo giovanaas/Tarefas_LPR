@@ -10,12 +10,13 @@ int main () {
         {882, 586, 429, 0}
     };
  
-   int origem, destino;
+   int origem, destino, npme;
 
-    cout << "As cidades disponíveis são: ";
-    cout << "Por favor, informe a cidade de origem e a cidade de destino: ";
+    cout << "As cidades disponíveis são: 1- Vitoria; 2- BH; 3- Rio de Janeiro; 4-Sao Paulo" << endl;
+    cout << "Por favor, informe o numero da cidade de origem e da cidade de destino: ";
     cin >>  origem >> destino;
 
+    
     for (int linha = 0; linha < 4; linha++) {
         for (int coluna = 0; coluna < 4; coluna++)
      cout << "A ditância entre " << origem << "e " << destino << "eh: " << distancia [linha] [coluna];
