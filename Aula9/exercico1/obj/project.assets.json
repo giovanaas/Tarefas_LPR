@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alunos\\Desktop\\LPR\\Tarefas_LPR\\Aula9\\exemplo\\exemploListac#\\exemploListac#.csproj",
-      "projectName": "exemploListac#",
-      "projectPath": "C:\\Users\\Alunos\\Desktop\\LPR\\Tarefas_LPR\\Aula9\\exemplo\\exemploListac#\\exemploListac#.csproj",
+      "projectUniqueName": "C:\\Users\\Alunos\\Desktop\\LPR\\Tarefas_LPR\\Aula9\\exercico1\\exercico1.csproj",
+      "projectName": "exercico1",
+      "projectPath": "C:\\Users\\Alunos\\Desktop\\LPR\\Tarefas_LPR\\Aula9\\exercico1\\exercico1.csproj",
       "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alunos\\Desktop\\LPR\\Tarefas_LPR\\Aula9\\exemplo\\exemploListac#\\obj\\",
+      "outputPath": "C:\\Users\\Alunos\\Desktop\\LPR\\Tarefas_LPR\\Aula9\\exercico1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config",
