@@ -17,12 +17,15 @@ class Program
             nomesAleatorios.Add(nome);
 
         }
-        // enquanto a liosta tiver nomes
-        // contador de tamanhos=1
-        // para i nomes
-        // se o tamanho do nome i= contador de tamanho
-        //mostro nome i e o tira da lista
 
+        // cont=1
+        // enquanto a lista != 0
+        // para nomes em lista
+        // se nome.tamanho == cont
+        //mostro nome i e o tira da lista
+        // cont++
+        // tem que verificar qual o nome com maior tamanho, ai quando chega nele, o contador tem que zerar dnv pra recomeçar a contar na linha de baixo
+        
         Console.WriteLine($"")
 
 
