@@ -1,0 +1,24 @@
+#include <iostream>
+#include <iomanip>
+
+using namespace std;
+
+int main()
+{
+
+  int funcionario, horas;
+  double porHora, salario;
+
+  cout << "Informe o numero do funcionario: ";
+  cin >> funcionario;
+  cout << "Informe a quantidade de horas trabalhadas:";
+  cin >> horas;
+  cout << "Informe o valor que voce recebe por hora:";
+  cin >> porHora;
+
+  salario = porHora * horas;
+
+  cout << "Numero do funcionario: " << funcionario << endl;
+  cout << fixed << setprecision(2);
+  cout << "Seu salario é: R$ " << salario << endl;
+}

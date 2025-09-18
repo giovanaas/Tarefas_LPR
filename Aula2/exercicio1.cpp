@@ -15,5 +15,5 @@ int main()
   double area = pi * raio * raio;
 
   cout << fixed << setprecision(4);
-  cout << "A área do círculo é:" << area << ".";
+  cout << "A área do círculo é: " << area << ".";
 }
